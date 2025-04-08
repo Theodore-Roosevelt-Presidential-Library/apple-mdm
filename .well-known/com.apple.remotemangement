@@ -1,1 +1,1 @@
-https://trlibrary.com/.well-known/com.apple.remotemanagement
+{"Servers":[{"Version":"mdm-byod", "BaseURL":"https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=c3f9fd83-3dac-4d1e-a4c3-573c4fcf9600"}]}
